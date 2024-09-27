@@ -1,1 +1,1 @@
-# U-NetPlus PLus-_image-segmentation-Pipeline-using-pytorch-
+# U-Net++ image segmentation Pipeline using pytorch
